@@ -1,0 +1,8 @@
+{
+  "name": "AI返信アシスタント075_テキスト生成",
+  "description": "画像から問い合わせ内容を読み取り、AIが最適な返信案を複数提案するツールです。選択した返信案は編集してコピーできます。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
